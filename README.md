@@ -28,7 +28,7 @@ https://twitter.com/Aman__2309
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/aman-gupta-99553b21a" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/Aman__2309" alt="Twitter Badge"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
@@ -36,5 +36,6 @@ https://twitter.com/Aman__2309
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  </div>
+  </div> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amangupta2309&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
