@@ -40,5 +40,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amangupta2309&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
 <!-- ** Visitors Counter** -->
-https://count.getloli.com/get/@amangupta2309?theme=rule34
+
+<img src="https://count.getloli.com/get/@amangupta2309?theme=rule34" alt=":name" />
 
