@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
-
+<span align="left">Hi 🙋🏻‍♂️, I am Aman Gupta, a Full Stack Developer 🚀 from India, currently, I'm a computer science student at <a href="https://csjmu.ac.in/school-of-engineering-and-technology/">UIET, CSJM University Kanpur</a>. I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.</span>
+</p>
 ---
 
 **Languages and Tools:**  
@@ -17,17 +19,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb "MongoDB")
 ![MySql](https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql "MySql")
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku "Heroku")
-![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws "Amazon Web Services")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
 <hr />
 
-
-<!-- https://img.shields.io/badge/https://www.linkedin.com/in/aman-gupta-99553b21a//LinkedIn-blue
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
-
-https://twitter.com/Aman__2309
- -->
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/aman-gupta-99553b21a" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/Aman__2309" alt="Twitter Badge"/>
