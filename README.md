@@ -1,8 +1,11 @@
 ### Hi there 👋
+
 <hr />
+
 <a href="https://www.linkedin.com/in/aman-gupta-99553b21a/" title="LinkedIn">
 <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn"  width="100" height="30"></a>
 <p>
+  
 <hr />
   
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
@@ -10,6 +13,7 @@
 </p>
 
 <hr />
+
 **Languages and Tools:**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c "C++")
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript "JavaScript")
@@ -26,16 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
 <hr />
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/aman-gupta-99553b21a" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/Aman__2309" alt="Twitter Badge"/>
-</div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div>
----
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
