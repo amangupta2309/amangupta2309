@@ -1,25 +1,27 @@
 ### Hi there 👋
 
-<!--
-**amangupta2309/amangupta2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term= -->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
+
+---
+
+**Languages and Tools:**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c "C++")
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript "JavaScript")
+![NodeJs](https://img.shields.io/badge/-NodeJs-303030?style=flat-square&logo=Node.js "NodeJs")
+![ReactJs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=react "ReactJs")
+![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php "PHP")
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python "Phython")
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white "HTML5")
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3 "CSS3")
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap "Bootstrap")
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb "MongoDB")
+![MySql](https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql "MySql")
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku "Heroku")
+![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws "Amazon Web Services")
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
+<hr />
+
 
 <!-- https://img.shields.io/badge/https://www.linkedin.com/in/aman-gupta-99553b21a//LinkedIn-blue
 https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
