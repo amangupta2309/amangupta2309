@@ -48,7 +48,7 @@
 Visitors Count
 
 <img src="https://count.getloli.com/get/@amangupta2309?theme=rule34" alt=":name" />
-
+<!--
 ## 📜 Coding Activity
 <!--START_SECTION:waka-->
 
@@ -57,4 +57,5 @@ Visitors Count
 ```
 
 <!--END_SECTION:waka-->
+-->
 
