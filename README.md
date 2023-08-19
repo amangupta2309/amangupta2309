@@ -1,13 +1,15 @@
 ### Hi there 👋
-
+<hr />
 <a href="https://www.linkedin.com/in/aman-gupta-99553b21a/" title="LinkedIn">
 <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn"  width="100" height="30"></a>
 <p>
-
+<hr />
+  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
 <span align="left">Hi 🙋🏻‍♂️, I am Aman Gupta, a Full Stack Developer 🚀 from India, currently, I'm a computer science student at <a href="https://csjmu.ac.in/school-of-engineering-and-technology/">UIET, CSJM University Kanpur</a>. I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.</span>
 </p>
 
+<hr />
 **Languages and Tools:**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c "C++")
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript "JavaScript")
