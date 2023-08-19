@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
+
 <!-- https://img.shields.io/badge/https://www.linkedin.com/in/aman-gupta-99553b21a//LinkedIn-blue
 https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 
