@@ -31,10 +31,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
 <hr />
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  </div> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amangupta2309&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amangupta2309&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
 <!-- ** Visitors Counter** -->
 Visitors Count
